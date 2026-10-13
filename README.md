@@ -93,6 +93,7 @@ This is a list of video game resources: game databases, wikis, preservation proj
 
 ### History and Magazines
 
+- [Retropulse](https://theretropulse.com/) - Retro gaming newsletter with news, emulator updates, new releases and fan translations.
 - [Hardcore Gaming 101](https://www.hardcoregaming101.net/) - Long-form articles on classic games and series.
 - [Retro Gamer](https://www.retrogamer.net/) - Magazine about classic games and the people who made them.
 - [Copetti's Architecture of Consoles](https://www.copetti.org/writings/consoles/) - Illustrated technical write-ups of console hardware.
